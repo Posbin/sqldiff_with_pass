@@ -1,4 +1,4 @@
-sqldiff_with_pass
+sqlite-pw-diff
 =========
 
 ## Overview
